@@ -1,0 +1,22 @@
+{
+	"AnatomicalLandmarkCoordinateSystem":"ElektaNeuromag",
+	"AnatomicalLandmarkCoordinateSystemDescription":"ElektaNeuromag head coordinates, orientation RAS, origin between the ears",
+	"AnatomicalLandmarkCoordinateUnits":"m",
+	"AnatomicalLandmarkCoordinates":{
+		"lpa":[-0.07737069576978683,0,-7.450580596923828e-09],
+		"rpa":[0,0.09599372744560242,-7.450580596923828e-09],
+		"nas":[0.07576462626457214,0,-7.450580596923828e-09]
+	},
+	"HeadCoilCoordinateSystem":"ElektaNeuromag",
+	"HeadCoilCoordinateSystemDescription":"ElektaNeuromag head coordinates, orientation RAS, origin between the ears",
+	"HeadCoilCoordinateUnits":"m",
+	"HeadCoilCoordinates":{
+		"coil1":[-0.02441970258951187,0.09079787135124207,0.04295773804187775],
+		"coil2":[-0.07281041890382767,-0.02230367064476013,0.004654861986637115],
+		"coil3":[0.0690174326300621,-0.02116206288337708,0.005797951947897673],
+		"coil4":[0.02138236723840237,0.09116443991661072,0.04435883462429047]
+	},
+	"MEGCoordinateSystem":"ElektaNeuromag",
+	"MEGCoordinateSystemDescription":"ElektaNeuromag head coordinates, orientation RAS, origin between the ears",
+	"MEGCoordinateUnits":"m"
+}

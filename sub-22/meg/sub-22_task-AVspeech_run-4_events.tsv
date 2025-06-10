@@ -1,0 +1,472 @@
+onset	duration	sample	type	value	event
+12.212	0	12213	STI101	5632	---
+13.905	0	13906	STI101	64	Localiser Sound onset
+13.905	0	13906	STI007	5	---
+13.905	0	13906	Trigger	64	Localiser Sound onset
+20.61	0	20611	STI101	64	Localiser Sound onset
+20.61	0	20611	STI007	5	---
+20.61	0	20611	Trigger	64	Localiser Sound onset
+27.199	0	27200	STI101	64	Localiser Sound onset
+27.199	0	27200	STI007	5	---
+27.199	0	27200	Trigger	64	Localiser Sound onset
+33.83	0	33831	STI101	64	Localiser Sound onset
+33.83	0	33831	STI007	5	---
+33.83	0	33831	Trigger	64	Localiser Sound onset
+37.617	0	37618	STI101	5888	---
+40.619	0	40620	STI101	64	Localiser Sound onset
+40.619	0	40620	STI007	5	---
+40.619	0	40620	Trigger	64	Localiser Sound onset
+47.4	0	47401	STI101	64	Localiser Sound onset
+47.4	0	47401	STI007	5	---
+47.4	0	47401	Trigger	64	Localiser Sound onset
+54.022	0	54023	STI101	64	Localiser Sound onset
+54.022	0	54023	STI007	5	---
+54.022	0	54023	Trigger	64	Localiser Sound onset
+60.719	0	60720	STI101	64	Localiser Sound onset
+60.719	0	60720	STI007	5	---
+60.719	0	60720	Trigger	64	Localiser Sound onset
+67.358	0	67359	STI101	64	Localiser Sound onset
+67.358	0	67359	STI007	5	---
+67.358	0	67359	Trigger	64	Localiser Sound onset
+74.03	0	74031	STI101	64	Localiser Sound onset
+74.03	0	74031	STI007	5	---
+74.03	0	74031	Trigger	64	Localiser Sound onset
+80.603	0	80604	STI101	64	Localiser Sound onset
+80.603	0	80604	STI007	5	---
+80.603	0	80604	Trigger	64	Localiser Sound onset
+87.325	0	87326	STI101	64	Localiser Sound onset
+87.325	0	87326	STI007	5	---
+87.325	0	87326	Trigger	64	Localiser Sound onset
+94.064	0	94065	STI101	64	Localiser Sound onset
+94.064	0	94065	STI007	5	---
+94.064	0	94065	Trigger	64	Localiser Sound onset
+100.728	0	100729	STI101	64	Localiser Sound onset
+100.728	0	100729	STI007	5	---
+100.728	0	100729	Trigger	64	Localiser Sound onset
+107.425	0	107426	STI101	64	Localiser Sound onset
+107.425	0	107426	STI007	5	---
+107.425	0	107426	Trigger	64	Localiser Sound onset
+114.048	0	114049	STI101	64	Localiser Sound onset
+114.048	0	114049	STI007	5	---
+114.048	0	114049	Trigger	64	Localiser Sound onset
+118.033	0	118034	STI101	5888	---
+120.778	0	120779	STI101	64	Localiser Sound onset
+120.778	0	120779	STI007	5	---
+120.778	0	120779	Trigger	64	Localiser Sound onset
+127.509	0	127510	STI101	64	Localiser Sound onset
+127.509	0	127510	STI007	5	---
+127.509	0	127510	Trigger	64	Localiser Sound onset
+134.24	0	134241	STI101	64	Localiser Sound onset
+134.24	0	134241	STI007	5	---
+134.24	0	134241	Trigger	64	Localiser Sound onset
+140.862	0	140863	STI101	64	Localiser Sound onset
+140.862	0	140863	STI007	5	---
+140.862	0	140863	Trigger	64	Localiser Sound onset
+147.434	0	147435	STI101	64	Localiser Sound onset
+147.434	0	147435	STI007	5	---
+147.434	0	147435	Trigger	64	Localiser Sound onset
+154.198	0	154199	STI101	64	Localiser Sound onset
+154.198	0	154199	STI007	5	---
+154.198	0	154199	Trigger	64	Localiser Sound onset
+161.146	0	161147	STI101	64	Localiser Sound onset
+161.146	0	161147	STI007	5	---
+161.146	0	161147	Trigger	64	Localiser Sound onset
+163.371	0	163372	STI101	5888	---
+167.71	0	167711	STI101	64	Localiser Sound onset
+167.71	0	167711	STI007	5	---
+167.71	0	167711	Trigger	64	Localiser Sound onset
+174.365	0	174366	STI101	64	Localiser Sound onset
+174.365	0	174366	STI007	5	---
+174.365	0	174366	Trigger	64	Localiser Sound onset
+176.618	0	176619	STI101	5888	---
+181.138	0	181139	STI101	64	Localiser Sound onset
+181.138	0	181139	STI007	5	---
+181.138	0	181139	Trigger	64	Localiser Sound onset
+187.785	0	187786	STI101	64	Localiser Sound onset
+187.785	0	187786	STI007	5	---
+187.785	0	187786	Trigger	64	Localiser Sound onset
+194.524	0	194525	STI101	64	Localiser Sound onset
+194.524	0	194525	STI007	5	---
+194.524	0	194525	Trigger	64	Localiser Sound onset
+201.179	0	201180	STI101	64	Localiser Sound onset
+201.179	0	201180	STI007	5	---
+201.179	0	201180	Trigger	64	Localiser Sound onset
+204.659	0	204660	STI101	5888	---
+207.977	0	207978	STI101	64	Localiser Sound onset
+207.977	0	207978	STI007	5	---
+207.977	0	207978	Trigger	64	Localiser Sound onset
+214.766	0	214767	STI101	64	Localiser Sound onset
+214.766	0	214767	STI007	5	---
+214.766	0	214767	Trigger	64	Localiser Sound onset
+221.472	0	221473	STI101	64	Localiser Sound onset
+221.472	0	221473	STI007	5	---
+221.472	0	221473	Trigger	64	Localiser Sound onset
+228.186	0	228187	STI101	64	Localiser Sound onset
+228.186	0	228187	STI007	5	---
+228.186	0	228187	Trigger	64	Localiser Sound onset
+234.749	0	234750	STI101	64	Localiser Sound onset
+234.749	0	234750	STI007	5	---
+234.749	0	234750	Trigger	64	Localiser Sound onset
+241.455	0	241456	STI101	64	Localiser Sound onset
+241.455	0	241456	STI007	5	---
+241.455	0	241456	Trigger	64	Localiser Sound onset
+248.244	0	248245	STI101	64	Localiser Sound onset
+248.244	0	248245	STI007	5	---
+248.244	0	248245	Trigger	64	Localiser Sound onset
+254.958	0	254959	STI101	64	Localiser Sound onset
+254.958	0	254959	STI007	5	---
+254.958	0	254959	Trigger	64	Localiser Sound onset
+261.589	0	261590	STI101	64	Localiser Sound onset
+261.589	0	261590	STI007	5	---
+261.589	0	261590	Trigger	64	Localiser Sound onset
+268.319	0	268320	STI101	64	Localiser Sound onset
+268.319	0	268320	STI007	5	---
+268.319	0	268320	Trigger	64	Localiser Sound onset
+275.075	0	275076	STI101	64	Localiser Sound onset
+275.075	0	275076	STI007	5	---
+275.075	0	275076	Trigger	64	Localiser Sound onset
+278.08	0	278081	STI101	5888	---
+281.747	0	281748	STI101	64	Localiser Sound onset
+281.747	0	281748	STI007	5	---
+281.747	0	281748	Trigger	64	Localiser Sound onset
+288.32	0	288321	STI101	64	Localiser Sound onset
+288.32	0	288321	STI007	5	---
+288.32	0	288321	Trigger	64	Localiser Sound onset
+294.892	0	294893	STI101	64	Localiser Sound onset
+294.892	0	294893	STI007	5	---
+294.892	0	294893	Trigger	64	Localiser Sound onset
+301.681	0	301682	STI101	64	Localiser Sound onset
+301.681	0	301682	STI007	5	---
+301.681	0	301682	Trigger	64	Localiser Sound onset
+308.445	0	308446	STI101	64	Localiser Sound onset
+308.445	0	308446	STI007	5	---
+308.445	0	308446	Trigger	64	Localiser Sound onset
+315.001	0	315002	STI101	64	Localiser Sound onset
+315.001	0	315002	STI007	5	---
+315.001	0	315002	Trigger	64	Localiser Sound onset
+321.881	0	321882	STI101	64	Localiser Sound onset
+321.881	0	321882	STI007	5	---
+321.881	0	321882	Trigger	64	Localiser Sound onset
+328.487	0	328488	STI101	64	Localiser Sound onset
+328.487	0	328488	STI007	5	---
+328.487	0	328488	Trigger	64	Localiser Sound onset
+335.151	0	335152	STI101	64	Localiser Sound onset
+335.151	0	335152	STI007	5	---
+335.151	0	335152	Trigger	64	Localiser Sound onset
+342.007	0	342008	STI101	64	Localiser Sound onset
+342.007	0	342008	STI007	5	---
+342.007	0	342008	Trigger	64	Localiser Sound onset
+344.896	0	344897	STI101	5888	---
+348.621	0	348622	STI101	64	Localiser Sound onset
+348.621	0	348622	STI007	5	---
+348.621	0	348622	Trigger	64	Localiser Sound onset
+355.226	0	355227	STI101	64	Localiser Sound onset
+355.226	0	355227	STI007	5	---
+355.226	0	355227	Trigger	64	Localiser Sound onset
+361.807	0	361808	STI101	64	Localiser Sound onset
+361.807	0	361808	STI007	5	---
+361.807	0	361808	Trigger	64	Localiser Sound onset
+368.504	0	368505	STI101	64	Localiser Sound onset
+368.504	0	368505	STI007	5	---
+368.504	0	368505	Trigger	64	Localiser Sound onset
+375.101	0	375102	STI101	64	Localiser Sound onset
+375.101	0	375102	STI007	5	---
+375.101	0	375102	Trigger	64	Localiser Sound onset
+381.807	0	381808	STI101	64	Localiser Sound onset
+381.807	0	381808	STI007	5	---
+381.807	0	381808	Trigger	64	Localiser Sound onset
+388.513	0	388514	STI101	64	Localiser Sound onset
+388.513	0	388514	STI007	5	---
+388.513	0	388514	Trigger	64	Localiser Sound onset
+395.068	0	395069	STI101	64	Localiser Sound onset
+395.068	0	395069	STI007	5	---
+395.068	0	395069	Trigger	64	Localiser Sound onset
+401.674	0	401675	STI101	64	Localiser Sound onset
+401.674	0	401675	STI007	5	---
+401.674	0	401675	Trigger	64	Localiser Sound onset
+408.346	0	408347	STI101	64	Localiser Sound onset
+408.346	0	408347	STI007	5	---
+408.346	0	408347	Trigger	64	Localiser Sound onset
+415.044	0	415045	STI101	64	Localiser Sound onset
+415.044	0	415045	STI007	5	---
+415.044	0	415045	Trigger	64	Localiser Sound onset
+421.783	0	421784	STI101	64	Localiser Sound onset
+421.783	0	421784	STI007	5	---
+421.783	0	421784	Trigger	64	Localiser Sound onset
+428.58	0	428581	STI101	64	Localiser Sound onset
+428.58	0	428581	STI007	5	---
+428.58	0	428581	Trigger	64	Localiser Sound onset
+435.252	0	435253	STI101	64	Localiser Sound onset
+435.252	0	435253	STI007	5	---
+435.252	0	435253	Trigger	64	Localiser Sound onset
+436.929	0	436930	STI101	5888	---
+442.033	0	442034	STI101	64	Localiser Sound onset
+442.033	0	442034	STI007	5	---
+442.033	0	442034	Trigger	64	Localiser Sound onset
+444.613	0	444614	STI101	5888	---
+448.622	0	448623	STI101	64	Localiser Sound onset
+448.622	0	448623	STI007	5	---
+448.622	0	448623	Trigger	64	Localiser Sound onset
+455.227	0	455228	STI101	64	Localiser Sound onset
+455.227	0	455228	STI007	5	---
+455.227	0	455228	Trigger	64	Localiser Sound onset
+462.025	0	462026	STI101	64	Localiser Sound onset
+462.025	0	462026	STI007	5	---
+462.025	0	462026	Trigger	64	Localiser Sound onset
+465.299	0	465300	STI101	5888	---
+468.68	0	468681	STI101	64	Localiser Sound onset
+468.68	0	468681	STI007	5	---
+468.68	0	468681	Trigger	64	Localiser Sound onset
+475.319	0	475320	STI101	64	Localiser Sound onset
+475.319	0	475320	STI007	5	---
+475.319	0	475320	Trigger	64	Localiser Sound onset
+551.264	0	551265	STI101	1	Movie onset
+551.264	0	551265	STI001	5	---
+551.264	0	551265	Trigger	1	Movie onset
+551.364	0	551365	STI101	3	---
+551.364	0	551365	STI002	5	---
+551.364	0	551365	Trigger	2	Cue onset
+551.465	0	551466	STI101	6	---
+551.465	0	551466	STI003	5	---
+551.465	0	551466	Trigger	4	Sound1 onset
+551.565	0	551566	STI101	12	---
+551.565	0	551566	STI004	5	---
+551.565	0	551566	Trigger	8	Sound2 onset
+551.666	0	551667	STI101	24	---
+551.666	0	551667	STI005	5	---
+551.666	0	551667	Trigger	16	Probe response
+551.766	0	551767	STI101	48	---
+551.766	0	551767	STI006	5	---
+551.766	0	551767	Trigger	32	Localiser Movie onset
+551.866	0	551867	STI101	96	---
+551.866	0	551867	STI007	5	---
+551.866	0	551867	Trigger	64	Localiser Sound onset
+551.966	0	551967	STI101	192	---
+572.564	0	572565	STI101	5632	---
+574.97	0	574971	STI101	32	Localiser Movie onset
+574.97	0	574971	STI006	5	---
+574.97	0	574971	Trigger	32	Localiser Movie onset
+579.433	0	579434	STI101	5888	---
+587.439	0	587440	STI101	32	Localiser Movie onset
+587.439	0	587440	STI006	5	---
+587.439	0	587440	Trigger	32	Localiser Movie onset
+606.279	0	606280	STI101	5632	---
+608.665	0	608666	STI101	32	Localiser Movie onset
+608.665	0	608666	STI006	5	---
+608.665	0	608666	Trigger	32	Localiser Movie onset
+618.782	0	618783	STI101	32	Localiser Movie onset
+618.782	0	618783	STI006	5	---
+618.782	0	618783	Trigger	32	Localiser Movie onset
+629.024	0	629025	STI101	32	Localiser Movie onset
+629.024	0	629025	STI006	5	---
+629.024	0	629025	Trigger	32	Localiser Movie onset
+639.182	0	639183	STI101	32	Localiser Movie onset
+639.182	0	639183	STI006	5	---
+639.182	0	639183	Trigger	32	Localiser Movie onset
+649.316	0	649317	STI101	32	Localiser Movie onset
+649.316	0	649317	STI006	5	---
+649.316	0	649317	Trigger	32	Localiser Movie onset
+659.683	0	659684	STI101	32	Localiser Movie onset
+659.683	0	659684	STI006	5	---
+659.683	0	659684	Trigger	32	Localiser Movie onset
+669.966	0	669967	STI101	32	Localiser Movie onset
+669.966	0	669967	STI006	5	---
+669.966	0	669967	Trigger	32	Localiser Movie onset
+680.125	0	680126	STI101	32	Localiser Movie onset
+680.125	0	680126	STI006	5	---
+680.125	0	680126	Trigger	32	Localiser Movie onset
+690.267	0	690268	STI101	32	Localiser Movie onset
+690.267	0	690268	STI006	5	---
+690.267	0	690268	Trigger	32	Localiser Movie onset
+700.551	0	700552	STI101	32	Localiser Movie onset
+700.551	0	700552	STI006	5	---
+700.551	0	700552	Trigger	32	Localiser Movie onset
+710.734	0	710735	STI101	32	Localiser Movie onset
+710.734	0	710735	STI006	5	---
+710.734	0	710735	Trigger	32	Localiser Movie onset
+721.043	0	721044	STI101	32	Localiser Movie onset
+721.043	0	721044	STI006	5	---
+721.043	0	721044	Trigger	32	Localiser Movie onset
+731.36	0	731361	STI101	32	Localiser Movie onset
+731.36	0	731361	STI006	5	---
+731.36	0	731361	Trigger	32	Localiser Movie onset
+741.552	0	741553	STI101	32	Localiser Movie onset
+741.552	0	741553	STI006	5	---
+741.552	0	741553	Trigger	32	Localiser Movie onset
+744.701	0	744702	STI101	5888	---
+751.861	0	751862	STI101	32	Localiser Movie onset
+751.861	0	751862	STI006	5	---
+751.861	0	751862	Trigger	32	Localiser Movie onset
+762.153	0	762154	STI101	32	Localiser Movie onset
+762.153	0	762154	STI006	5	---
+762.153	0	762154	Trigger	32	Localiser Movie onset
+772.42	0	772421	STI101	32	Localiser Movie onset
+772.42	0	772421	STI006	5	---
+772.42	0	772421	Trigger	32	Localiser Movie onset
+782.82	0	782821	STI101	32	Localiser Movie onset
+782.82	0	782821	STI006	5	---
+782.82	0	782821	Trigger	32	Localiser Movie onset
+792.97	0	792971	STI101	32	Localiser Movie onset
+792.97	0	792971	STI006	5	---
+792.97	0	792971	Trigger	32	Localiser Movie onset
+803.121	0	803122	STI101	32	Localiser Movie onset
+803.121	0	803122	STI006	5	---
+803.121	0	803122	Trigger	32	Localiser Movie onset
+813.388	0	813389	STI101	32	Localiser Movie onset
+813.388	0	813389	STI006	5	---
+813.388	0	813389	Trigger	32	Localiser Movie onset
+823.655	0	823656	STI101	32	Localiser Movie onset
+823.655	0	823656	STI006	5	---
+823.655	0	823656	Trigger	32	Localiser Movie onset
+834.097	0	834098	STI101	32	Localiser Movie onset
+834.097	0	834098	STI006	5	---
+834.097	0	834098	Trigger	32	Localiser Movie onset
+844.381	0	844382	STI101	32	Localiser Movie onset
+844.381	0	844382	STI006	5	---
+844.381	0	844382	Trigger	32	Localiser Movie onset
+854.647	0	854648	STI101	32	Localiser Movie onset
+854.647	0	854648	STI006	5	---
+854.647	0	854648	Trigger	32	Localiser Movie onset
+864.99	0	864991	STI101	32	Localiser Movie onset
+864.99	0	864991	STI006	5	---
+864.99	0	864991	Trigger	32	Localiser Movie onset
+875.156	0	875157	STI101	32	Localiser Movie onset
+875.156	0	875157	STI006	5	---
+875.156	0	875157	Trigger	32	Localiser Movie onset
+885.29	0	885291	STI101	32	Localiser Movie onset
+885.29	0	885291	STI006	5	---
+885.29	0	885291	Trigger	32	Localiser Movie onset
+895.515	0	895516	STI101	32	Localiser Movie onset
+895.515	0	895516	STI006	5	---
+895.515	0	895516	Trigger	32	Localiser Movie onset
+905.766	0	905767	STI101	32	Localiser Movie onset
+905.766	0	905767	STI006	5	---
+905.766	0	905767	Trigger	32	Localiser Movie onset
+907.731	0	907732	STI101	5888	---
+915.941	0	915942	STI101	32	Localiser Movie onset
+915.941	0	915942	STI006	5	---
+915.941	0	915942	Trigger	32	Localiser Movie onset
+918.9	0	918901	STI101	5888	---
+926.275	0	926276	STI101	32	Localiser Movie onset
+926.275	0	926276	STI006	5	---
+926.275	0	926276	Trigger	32	Localiser Movie onset
+936.383	0	936384	STI101	32	Localiser Movie onset
+936.383	0	936384	STI006	5	---
+936.383	0	936384	Trigger	32	Localiser Movie onset
+946.692	0	946693	STI101	32	Localiser Movie onset
+946.692	0	946693	STI006	5	---
+946.692	0	946693	Trigger	32	Localiser Movie onset
+949.865	0	949866	STI101	5888	---
+957.059	0	957060	STI101	32	Localiser Movie onset
+957.059	0	957060	STI006	5	---
+957.059	0	957060	Trigger	32	Localiser Movie onset
+967.184	0	967185	STI101	32	Localiser Movie onset
+967.184	0	967185	STI006	5	---
+967.184	0	967185	Trigger	32	Localiser Movie onset
+977.426	0	977427	STI101	32	Localiser Movie onset
+977.426	0	977427	STI006	5	---
+977.426	0	977427	Trigger	32	Localiser Movie onset
+987.626	0	987627	STI101	32	Localiser Movie onset
+987.626	0	987627	STI006	5	---
+987.626	0	987627	Trigger	32	Localiser Movie onset
+997.918	0	997919	STI101	32	Localiser Movie onset
+997.918	0	997919	STI006	5	---
+997.918	0	997919	Trigger	32	Localiser Movie onset
+1008.26	0	1008261	STI101	32	Localiser Movie onset
+1008.26	0	1008261	STI006	5	---
+1008.26	0	1008261	Trigger	32	Localiser Movie onset
+1018.402	0	1018403	STI101	32	Localiser Movie onset
+1018.402	0	1018403	STI006	5	---
+1018.402	0	1018403	Trigger	32	Localiser Movie onset
+1028.628	0	1028629	STI101	32	Localiser Movie onset
+1028.628	0	1028629	STI006	5	---
+1028.628	0	1028629	Trigger	32	Localiser Movie onset
+1038.911	0	1038912	STI101	32	Localiser Movie onset
+1038.911	0	1038912	STI006	5	---
+1038.911	0	1038912	Trigger	32	Localiser Movie onset
+1049.078	0	1049079	STI101	32	Localiser Movie onset
+1049.078	0	1049079	STI006	5	---
+1049.078	0	1049079	Trigger	32	Localiser Movie onset
+1053.13	0	1053131	STI101	5888	---
+1059.579	0	1059580	STI101	32	Localiser Movie onset
+1059.579	0	1059580	STI006	5	---
+1059.579	0	1059580	Trigger	32	Localiser Movie onset
+1069.871	0	1069872	STI101	32	Localiser Movie onset
+1069.871	0	1069872	STI006	5	---
+1069.871	0	1069872	Trigger	32	Localiser Movie onset
+1077.363	0	1077364	STI101	5632	---
+1080.255	0	1080256	STI101	32	Localiser Movie onset
+1080.255	0	1080256	STI006	5	---
+1080.255	0	1080256	Trigger	32	Localiser Movie onset
+1090.58	0	1090581	STI101	32	Localiser Movie onset
+1090.58	0	1090581	STI006	5	---
+1090.58	0	1090581	Trigger	32	Localiser Movie onset
+1100.822	0	1100823	STI101	32	Localiser Movie onset
+1100.822	0	1100823	STI006	5	---
+1100.822	0	1100823	Trigger	32	Localiser Movie onset
+1111.206	0	1111207	STI101	32	Localiser Movie onset
+1111.206	0	1111207	STI006	5	---
+1111.206	0	1111207	Trigger	32	Localiser Movie onset
+1121.423	0	1121424	STI101	32	Localiser Movie onset
+1121.423	0	1121424	STI006	5	---
+1121.423	0	1121424	Trigger	32	Localiser Movie onset
+1125.142	0	1125143	STI101	5888	---
+1131.656	0	1131657	STI101	32	Localiser Movie onset
+1131.656	0	1131657	STI006	5	---
+1131.656	0	1131657	Trigger	32	Localiser Movie onset
+1142.032	0	1142033	STI101	32	Localiser Movie onset
+1142.032	0	1142033	STI006	5	---
+1142.032	0	1142033	Trigger	32	Localiser Movie onset
+1145.718	0	1145719	STI101	5888	---
+1152.416	0	1152417	STI101	32	Localiser Movie onset
+1152.416	0	1152417	STI006	5	---
+1152.416	0	1152417	Trigger	32	Localiser Movie onset
+1162.591	0	1162592	STI101	32	Localiser Movie onset
+1162.591	0	1162592	STI006	5	---
+1162.591	0	1162592	Trigger	32	Localiser Movie onset
+1172.908	0	1172909	STI101	32	Localiser Movie onset
+1172.908	0	1172909	STI006	5	---
+1172.908	0	1172909	Trigger	32	Localiser Movie onset
+1183.233	0	1183234	STI101	32	Localiser Movie onset
+1183.233	0	1183234	STI006	5	---
+1183.233	0	1183234	Trigger	32	Localiser Movie onset
+1193.384	0	1193385	STI101	32	Localiser Movie onset
+1193.384	0	1193385	STI006	5	---
+1193.384	0	1193385	Trigger	32	Localiser Movie onset
+1203.459	0	1203460	STI101	32	Localiser Movie onset
+1203.459	0	1203460	STI006	5	---
+1203.459	0	1203460	Trigger	32	Localiser Movie onset
+1213.742	0	1213743	STI101	32	Localiser Movie onset
+1213.742	0	1213743	STI006	5	---
+1213.742	0	1213743	Trigger	32	Localiser Movie onset
+1223.993	0	1223994	STI101	32	Localiser Movie onset
+1223.993	0	1223994	STI006	5	---
+1223.993	0	1223994	Trigger	32	Localiser Movie onset
+1234.226	0	1234227	STI101	32	Localiser Movie onset
+1234.226	0	1234227	STI006	5	---
+1234.226	0	1234227	Trigger	32	Localiser Movie onset
+1244.327	0	1244328	STI101	32	Localiser Movie onset
+1244.327	0	1244328	STI006	5	---
+1244.327	0	1244328	Trigger	32	Localiser Movie onset
+1254.468	0	1254469	STI101	32	Localiser Movie onset
+1254.468	0	1254469	STI006	5	---
+1254.468	0	1254469	Trigger	32	Localiser Movie onset
+1264.777	0	1264778	STI101	32	Localiser Movie onset
+1264.777	0	1264778	STI006	5	---
+1264.777	0	1264778	Trigger	32	Localiser Movie onset
+1275.052	0	1275053	STI101	32	Localiser Movie onset
+1275.052	0	1275053	STI006	5	---
+1275.052	0	1275053	Trigger	32	Localiser Movie onset
+1285.253	0	1285254	STI101	32	Localiser Movie onset
+1285.253	0	1285254	STI006	5	---
+1285.253	0	1285254	Trigger	32	Localiser Movie onset
+1295.586	0	1295587	STI101	32	Localiser Movie onset
+1295.586	0	1295587	STI006	5	---
+1295.586	0	1295587	Trigger	32	Localiser Movie onset
+1305.929	0	1305930	STI101	32	Localiser Movie onset
+1305.929	0	1305930	STI006	5	---
+1305.929	0	1305930	Trigger	32	Localiser Movie onset
+1310.131	0	1310132	STI101	5888	---
+1316.162	0	1316163	STI101	32	Localiser Movie onset
+1316.162	0	1316163	STI006	5	---
+1316.162	0	1316163	Trigger	32	Localiser Movie onset
